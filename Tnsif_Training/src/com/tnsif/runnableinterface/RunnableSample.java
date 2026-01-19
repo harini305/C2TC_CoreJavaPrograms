@@ -1,4 +1,4 @@
-package runnableinterface;
+package com.tnsif.runnableinterface;
 
 public class RunnableSample {
 	public static void main(String[] args) {

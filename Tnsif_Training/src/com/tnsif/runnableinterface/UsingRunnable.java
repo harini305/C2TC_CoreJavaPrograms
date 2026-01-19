@@ -1,4 +1,4 @@
-package runnableinterface;
+package com.tnsif.runnableinterface;
 
 public class UsingRunnable implements Runnable {
 	Thread thread;
