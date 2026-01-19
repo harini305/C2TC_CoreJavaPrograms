@@ -1,4 +1,4 @@
-package synchronization;
+package com.tnsif.synchronization;
 
 class Table {
     // Synchronized method
